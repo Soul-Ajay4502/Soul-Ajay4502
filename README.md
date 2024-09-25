@@ -1,14 +1,12 @@
-
+<a href="https://visitcount.itsvg.in">
+<img align="right" src="https://visitcount.itsvg.in/api?id=Soul-Ajay4502&label=Profile Views&color=12&icon=8&pretty=false" />
+</a>
+<br/>
 <div align=center>
 <!-- 	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="700px"/> <br><br> -->
 	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ajayraj+%F0%9F%91%8B;Full+stack+developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 <br/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Ajayraj">
-</h1>
-
 
 <p align="justify">A Full Stack Developer skilled in React, React Native, Node.js, and MySQL specializes in building seamless web and mobile applications. With expertise in React for dynamic front-end development, React Native for cross-platform mobile apps, Node.js for efficient server-side logic, and MySQL for database management, they can create fully integrated solutions, ensuring smooth user experiences and robust performance across platforms.</p>
 
