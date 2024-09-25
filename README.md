@@ -15,7 +15,10 @@
 
  <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode"/>
 </div>
-
+<div align="center">
+  <h2>🔁 Scrolling Text Example</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=6D9F00&size=24&center=true&vCenter=true&lines=Tutorialpoint+scrolling" alt="Scrolling Text" />
+</div>
 <div align="center"> 
 <h2>🌐Socials</h2>
  <a href="https://www.linkedin.com/in/ajayraj-a-r/" target="_blank">
