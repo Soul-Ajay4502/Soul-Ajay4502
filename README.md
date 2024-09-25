@@ -13,7 +13,7 @@
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
 
- <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,flutter,postman,figma,firebase,github,vscode,npm,netlify,bitbucket"/>
+ <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,jyupiter notebook"/>
 
 </div>
 
