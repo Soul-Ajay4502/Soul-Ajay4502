@@ -15,6 +15,7 @@
  <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode"/>
  <div align="center">
 <br>
+<div>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks--library- -->
 
 <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
