@@ -14,26 +14,6 @@
   <h2>🧑‍💻Tech Stacks</h2>
 
  <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode"/>
-<div class="scrolling-text">Tutorialpoint</div>
- <style>
-   .scrolling-text {
-     height: 100px;
-     overflow: hidden;
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     animation: scrollUp 4s linear infinite;
-   }
-
-   @keyframes scrollUp {
-     0% {
-       transform: translateY(100%);
-     }
-     100% {
-       transform: translateY(-100%);
-     }
-   }
- </style>
 
 </div>
 
