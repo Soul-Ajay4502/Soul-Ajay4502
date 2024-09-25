@@ -30,4 +30,9 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Soul-Ajay4502&theme=dark&hide_border=false" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-Ajay4502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+
+  <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 </div>
