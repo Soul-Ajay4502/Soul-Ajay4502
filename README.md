@@ -4,11 +4,11 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Joel">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Ajay">
 </h1>
 
 
-<p align="center">I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
+<p align="center">I'm a full stack developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
 
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
@@ -19,11 +19,11 @@
 
 <div align="center"> 
 <h2>🌐Socials</h2>
- <a href="https://www.linkedin.com/in/joel-p-jacob/" target="_blank">
+ <a href="https://www.linkedin.com/in/ajayraj-a-r/" target="_blank">
     <img width="100px"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/joel_p___" target="_blank">
-     <img width="110px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
+     <img width="110px" src="https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
   </a>
 </div>
 
