@@ -1,16 +1,36 @@
-## Hi there 👋
+<a href="https://visitcount.itsvg.in">
+  <img align="right" src="https://visitcount.itsvg.in/api?id=Soul-Ajay4502&label=Profile%20Views&color=12&icon=8&pretty=false" />
+</a>
+<br/>
 
-<!--
-**Soul-Ajay4502/Soul-Ajay4502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Joel">
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
+
+<div align="center">
+  <h2>🧑‍💻Tech Stacks</h2>
+
+ <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,flutter,postman,figma,firebase,github,vscode,npm,netlify,bitbucket"/>
+
+</div>
+
+<div align="center"> 
+<h2>🌐Socials</h2>
+ <a href="https://www.linkedin.com/in/joel-p-jacob/" target="_blank">
+    <img width="100px"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/joel_p___" target="_blank">
+     <img width="110px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<div align=center>
+  <h2>📈GitHub Stats</h2>
+  <img width=354 src="https://github-readme-stats.vercel.app/api?username=Soul-Ajay4502&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Soul-Ajay4502&theme=dark&hide_border=false" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+</div>
