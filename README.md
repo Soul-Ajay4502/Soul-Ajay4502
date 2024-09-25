@@ -8,7 +8,7 @@
 </h1>
 
 
-<p align="center">I'm a full stack developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
+<p align="center">A Full Stack Developer skilled in React, React Native, Node.js, and MySQL specializes in building seamless web and mobile applications. With expertise in React for dynamic front-end development, React Native for cross-platform mobile apps, Node.js for efficient server-side logic, and MySQL for database management, they can create fully integrated solutions, ensuring smooth user experiences and robust performance across platforms.</p>
 
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
