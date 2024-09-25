@@ -15,7 +15,7 @@
  <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode"/>
  <div align="center">
 <br>
-<div>
+<div disply='flex' justify-content='center'>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks--library- -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
