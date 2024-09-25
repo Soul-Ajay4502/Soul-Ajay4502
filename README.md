@@ -14,6 +14,7 @@
   <h2>🧑‍💻Tech Stacks</h2>
 
  <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode"/>
+ <marquee height="100"direction="up">Tutorialpoint</marquee>
  <maequee>
 <div align="center">
 <br>
