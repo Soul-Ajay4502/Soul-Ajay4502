@@ -22,9 +22,6 @@
  <a href="https://www.linkedin.com/in/ajayraj-a-r/" target="_blank">
     <img width="100px"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/joel_p___" target="_blank">
-     <img width="110px" src="https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
-  </a>
 </div>
 
 <div align=center>
