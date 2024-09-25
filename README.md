@@ -4,7 +4,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Ajay">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Ajayraj">
 </h1>
 
 
@@ -29,5 +29,5 @@
   <img width=354 src="https://github-readme-stats.vercel.app/api?username=Soul-Ajay4502&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Soul-Ajay4502&theme=dark&hide_border=false" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-Ajay4502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
