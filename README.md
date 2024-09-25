@@ -1,6 +1,10 @@
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=Soul-Ajay4502&label=Profile%20Views&color=12&icon=8&pretty=false" />
 </a>
+<div align=center>
+<!-- 	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="700px"/> <br><br> -->
+	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jenin+%F0%9F%91%8B;Full+stack+developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+</div>
 <br/>
 
 <h1 align="center">
