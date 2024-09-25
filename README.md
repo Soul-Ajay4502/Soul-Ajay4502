@@ -14,6 +14,7 @@
   <h2>🧑‍💻Tech Stacks</h2>
 
  <img width="460px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode"/>
+ <maequee>
 <div align="center">
 <br>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks--library- -->
@@ -61,6 +62,7 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
 </div>
+</marquee>
 </div>
 
 <div align="center"> 
