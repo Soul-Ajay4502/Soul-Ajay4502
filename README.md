@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Nextjs?style=for-the-badge&logo=nextjs&logoColor=white">
 </div>
 
 <div align="center"> 
