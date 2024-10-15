@@ -12,7 +12,7 @@
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
 
- <img width="500px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode"/>
+ <img width="550px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode,nextjs"/>
  <div align="center">
 <br>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks--library- -->
