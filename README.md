@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ajayraj 👋</h1>
-<h3 align="center">Full-Stack Developer | React • Node.js • MySQL</h3>
+<h3 align="center">Full-Stack Developer | Next Js • React • Node.js • Postgres • MySQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajayraj-a-r/" target="_blank">
@@ -14,7 +14,7 @@
 I’m a **Full-Stack Developer** passionate about building scalable **web and mobile applications**.  
 I enjoy turning complex problems into simple, elegant solutions and writing **clean, maintainable code**.
 
-- 🔭 Currently working with **React, Node.js & MySQL**
+- 🔭 Currently working with **Next js, React, Node.js & MySQL**
 - 🌱 Exploring **Next.js & performance optimization**
 - 💡 Interested in **API design, UI/UX & system architecture**
 - 🚀 Open to **collaborations & open-source contributions**
