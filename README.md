@@ -1,58 +1,77 @@
-<a href="https://visitcount.itsvg.in">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=Soul-Ajay4502&label=Profile%20Views&color=12&icon=8&pretty=false" />
-</a>
-<div align=center>
-<!-- 	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="700px"/> <br><br> -->
-	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ajayraj+%F0%9F%91%8B;Full+stack+developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
-</div>
-<br/>
+<h1 align="center">Hi, I'm Ajay Raj 👋</h1>
+<h3 align="center">Full-Stack Developer | React • Node.js • MySQL</h3>
 
-<p align="justify">A Full Stack Developer skilled in Next Js, React, React Native, Node.js, and MySQL specializes in building seamless web and mobile applications. With expertise in React for dynamic front-end development, React Native for cross-platform mobile apps, Node.js for efficient server-side logic, and MySQL for database management, they can create fully integrated solutions, ensuring smooth user experiences and robust performance across platforms.</p>
-
-<div align="center">
-  <h2>🧑‍💻Tech Stacks</h2>
-
- <img width="550px" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,materialui,postman,figma,firebase,github,vscode,npm,netlify,bitbucket,mysql,vscode,nextjs"/>
- <div align="center">
-<br>
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks--library- -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-<img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
-<div align="center"> 
-<h2>🌐Socials</h2>
- <a href="https://www.linkedin.com/in/ajayraj-a-r/" target="_blank">
-    <img width="100px"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajayraj-a-r/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Raj-blue?style=flat&logo=linkedin">
   </a>
-</div>
-
-<div align=center>
-  <h2>📈GitHub Stats</h2>
-  <img width=354 src="https://github-readme-stats.vercel.app/api?username=Soul-Ajay4502&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Soul-Ajay4502&theme=dark&hide_border=false" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-Ajay4502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
-
-  <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://visitcount.itsvg.in/api?id=Soul-Ajay4502&label=Profile%20Views&color=0&icon=5&pretty=true"/>
 </p>
-</div>
+
+---
+
+## 👨‍💻 About Me
+
+I’m a **Full-Stack Developer** passionate about building scalable **web and mobile applications**.  
+I enjoy turning complex problems into simple, elegant solutions and writing **clean, maintainable code**.
+
+- 🔭 Currently working with **React, Node.js & MySQL**
+- 🌱 Exploring **Next.js & performance optimization**
+- 💡 Interested in **API design, UI/UX & system architecture**
+- 🚀 Open to **collaborations & open-source contributions**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=flat&logo=mysql)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soul-Ajay4502&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soul-Ajay4502&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul-Ajay4502&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [ajayraj-a-r](https://www.linkedin.com/in/ajayraj-a-r/)
+- 🌐 Portfolio: https://soul-ajay4502.github.io/ajay-portfolio/
+
+---
+
+⭐ *“Code is not just about solving problems, it's about crafting experiences.”*
