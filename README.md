@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Ajay Raj 👋</h1>
+<h1 align="center">Hi, I'm Ajayraj 👋</h1>
 <h3 align="center">Full-Stack Developer | React • Node.js • MySQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajayraj-a-r/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Raj-blue?style=flat&logo=linkedin">
   </a>
-  <img src="https://visitcount.itsvg.in/api?id=Soul-Ajay4502&label=Profile%20Views&color=0&icon=5&pretty=true"/>
 </p>
 
 ---
@@ -70,7 +69,7 @@ I enjoy turning complex problems into simple, elegant solutions and writing **cl
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: [ajayraj-a-r](https://www.linkedin.com/in/ajayraj-a-r/)
-- 🌐 Portfolio: https://soul-ajay4502.github.io/ajay-portfolio/
+- 🌐 Portfolio: [https://soul-ajay4502.github.io/ajay-portfolio/](https://portfolio-ajay-psi.vercel.app/)
 
 ---
 
