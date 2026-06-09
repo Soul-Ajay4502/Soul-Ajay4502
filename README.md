@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** based in **Kochi, Kerala, India** with **2+ years of professional experience** building production-grade web and mobile applications. I specialize in the **JavaScript/TypeScript ecosystem** — from crafting performant Next.js frontends to designing robust Node.js APIs and shipping cross-platform mobile apps with React Native.
+I'm a **Full Stack Developer** based in **Kochi, Kerala, India** with **3+ years of professional experience** building production-grade web and mobile applications. I specialize in the **JavaScript/TypeScript ecosystem** — from crafting performant Next.js frontends to designing robust Node.js APIs and shipping cross-platform mobile apps with React Native.
 
 Currently contributing to **AI-powered products** at Raydian Technologies and **SaaS project management tools** at Beurokrat, I enjoy architecting systems that are clean, scalable, and business-ready.
 
