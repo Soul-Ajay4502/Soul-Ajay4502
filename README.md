@@ -241,7 +241,7 @@ A system that automatically reminds organizational stakeholders about item maint
 
 ## 🔭 Currently
 
-- 🏗️ **Building** — Raydian.AI (AI-powered platform) + Kaizen (PM tool at Beurokrat)
+- 🏗️ **Building** — Raydian.AI (AI-powered platform) + Kaizen (PM tool at Beurokrat) [![Link](https://raydian.ai)
 - 📚 **Learning** — Advanced Next.js patterns, AI integrations, system design
 - 🤝 **Open to** — Full Stack / Frontend engineering roles, remote-friendly teams, startup environments
 - 🌍 **Location** — Kochi, Kerala · Open to relocation or remote work
