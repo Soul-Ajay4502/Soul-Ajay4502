@@ -124,6 +124,18 @@ const ajayraj = {
 
 ## 🚀 Featured Projects
 
+### 🤖 Raydian.AI — AI-Powered Platform
+> *Raydian Technologies Pvt. Ltd · Production*
+
+An AI-powered web platform built to deliver intelligent, automated solutions for real-world business workflows.
+
+- **Role:** Full Stack Developer
+- **Key Features:** AI-driven interactions, modern responsive UI, scalable backend architecture
+- **Tech:** `Next.js` `TypeScript` `Node.js` `AI Integrations`
+- **🌐 Live:** [www.raydian.ai](https://www.raydian.ai)
+
+---
+
 ### 🎯 Kaizen — Project Management Tool
 > *Beurokrat · Production*
 
@@ -241,7 +253,7 @@ A system that automatically reminds organizational stakeholders about item maint
 
 ## 🔭 Currently
 
-- 🏗️ **Building** — Raydian.AI (AI-powered platform) + Kaizen (PM tool at Beurokrat) [![Link](https://raydian.ai)
+- 🏗️ **Building** — Raydian.AI (AI-powered platform) + Kaizen (PM tool at Beurokrat)
 - 📚 **Learning** — Advanced Next.js patterns, AI integrations, system design
 - 🤝 **Open to** — Full Stack / Frontend engineering roles, remote-friendly teams, startup environments
 - 🌍 **Location** — Kochi, Kerala · Open to relocation or remote work
