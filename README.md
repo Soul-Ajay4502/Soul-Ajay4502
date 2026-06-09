@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Soul-Ajay4502/Soul-Ajay4502/7a668246dcce4d445f70a3c54b16e2542201faa0/121330637.jpeg" width="160" align="left" style="margin-right: 24px; margin-bottom: 10px; border-radius: 12px;" />
+
 <div align="center">
 
 # Hey there, I'm Ajayraj A R 👋
